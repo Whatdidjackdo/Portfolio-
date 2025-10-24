@@ -1,0 +1,97 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #F6F6EE;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style the topnav */
+ul.topnav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #75A9B8;
+}
+
+/* Style links in topnav */
+ul.topnav li a {
+  display: block;
+  color: #f1f1f1;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+ul.topnav li a:hover {
+  background-color: #dddddd;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Jack Palmiotti Emerging Media Portfolio</h1>
+</header>
+
+<ul class="topnav">
+  <li><a href="./index.html">Home</a></li>
+  <li><a href="./assignments.html">Assignments</a></li>
+  <li><a href="#">Project</a></li>
+  <li><a href="./bio.html">Bio</a></li>
+</ul>
+
+<header>
+
+  <h1><p style="font-size:18px">Reading Response 1</p>
+
+
+
+</body>
+</h1>
+   <h2>
+Reading:
+Theory: Constituents of a theory of the media by Enzensberger, 1970
+Hans Magnus Enzensberger is very dense with his caution for the media in his writing Constituents of a theory of the media. Enzensberger has a high view of media for its potential in terms of value and power. A correlating force that whom has that power has an influence to the subjected viewers. Media in mobilization brands to use in political factors by electronic media and the use of propaganda. The power and use is one side as Enzensberger views television not as serving communication but prevents it for no reciprocal action between the transmitter is allowed with viewers. Radio, in his view would be a perfect form os public use media communication, transmitting and receiving. At the time of this work in the 1970s, radio was the efficient output media form to get a message out quickly and raw to radio stations. It's set up and purchased by the bourgeois for the media system, meaning not for public use. I wonder what Enzensberger thought of Pirate radio broadcasts.
+
+The message and control of media comes down to the beholder the bigger the entirety, the more censorship in their hands of their media messaging control. A danger to that control is conflicts in the media field, at the time Enzensberger mentions trade unionism or liberalism affecting what are the ranges of media output. Media holders would aim to neutralize them and their voice for change. A socialist media theory has to work quickly and more extensively as a production. Walter Benjamin saw fit that it be done by rapidly increasing discrepancies and potential destructive forces. It can be dangerous as  Enzensberger writes that the beholders of the media underestimate growing conflicts in the media field and who it relates to. In comparison, Soviet society has to pay an immense price for the suppression of its own productive resources, bad procedures, misinformation, and “faux frais”. Censorship affects the freedom of ideas and the spreading of ideas, preventing freedom of the press.
+
+“an argument within the bourgeoisie itself; for the masses, freedom to express opinions was a fiction since they were, from the beginning, barred from the means of production” (Enzensberger)
+
+False options by media image leverage to gain trust over reality is described with the example of a office equipment firm using a photo of Che Guevara and text saying We would have hired him to tempt potential hires that this firm is in the ideals of Che Guevara and those in likeness of him should work here as Enzensberger put it “fear of handling shit is a luxury a sewer-man cannot necessarily afford”.
+
+At the time of media control by the most advanced technogy was lacking in public ability to properly strategically use. This is echoed by the example of rebels seizing a territory location; they picked the Odéon Theatre over the radio station, exemplifying that radio wasn't strategically easy to use. Socialist movements use newspapers and journals, favoring the option of language, content, and form to play with in their media delivery for their messages to the public.  
+Enzensberger describes that videotape and electronic cameras are victims of commercialism with no political viewpoint of their own.  The idea that media in the future would offer anyone the opportunity to become a producer, we accomplished that, but not in Enzensberger's hopes of remaining apolitical and limited to productive effort. His approach towards media is with an egalitarian view to level the playing field in action opportunity, but does everyone have the responsibility and skill commitment to do so?
+Believing the opportunity of new media to due away with all educational privileges and thereby with the cultural monopoly of the bourgeois intelligentsia, today the art form flourishes into digital and tech creation and endless digital information shared and available, so systems weren't abolished, but alternative learning free and available has made a strong impact to people connected to new media.
+
+Behind media ad sales is a mass consumption plan dedicated to needs that viewers are told to want to fulfill. Where truth is there or falsification and exploitation of legitimate needs, the process of the advertising machine rolls it out. The promises of the media and the mass need for non-material variety and mobility, Enzensberger saw this comparable in the material realization of private car-ownership and the hold of higher archy in status and life add its it has on people.  The political question to the mediaproprer does their use of media requires an organizational form of self-organization of the social needs they message to provide. 
+In a message of hope for all working with the system and the people, a vision of a revolutionary plan can be a flowing system without needing the manipulators to disappear; through an equal part media system does make everyone a manipulator. 
+
+
+Throughout the article, Enzensberger's words caution the use of media, as it is always in the form of some manipulation by media effect and tool to engage a reader to acknowledge media stipulations regarding what truth is, by who is to gain from it
+
+Work cited 
+Hans Magnus Enzensberger Constituents of a theory of the media 1970
+
+</h2>
+</header>
+
+</body>
+</html>
