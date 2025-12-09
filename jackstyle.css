@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+body:active {
+    cursor: url("/media/explosion.gif") !important;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+<li><a href="./Reading1.html">Reading 1</a></li>
